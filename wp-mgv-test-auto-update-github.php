@@ -6,7 +6,7 @@ Description: A WordPress plugin for auto-updating from GitHub.
 Version: 1.4.0
 Author: AhmPrs
 Author URI: https://github.com/ahmprs
-GitHub Plugin URI: https://github.com/ahmprs/Wp-Plg-Mgv-Test
+GitHub Plugin URI: https://github.com/ahmprs/Wp-Plg-Mgv-Test.git
 GitHub Branch: main
 */
 
