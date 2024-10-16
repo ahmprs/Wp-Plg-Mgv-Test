@@ -3,7 +3,7 @@
 Plugin Name: WP MGV Test Auto Update GitHub
 Plugin URI: https://github.com/ahmprs/Wp-Plg-Mgv-Test
 Description: A WordPress plugin for auto-updating from GitHub.
-Version: 1.4.0
+Version: 1.5.0
 Author: AhmPrs
 Author URI: https://github.com/ahmprs
 GitHub Plugin URI: https://github.com/ahmprs/Wp-Plg-Mgv-Test.git
