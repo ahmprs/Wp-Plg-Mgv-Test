@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: WP MGV Test Auto Update GitHub
-Plugin URI: https://yourwebsite.com/docs/wpmgvtest
-Description: A plugin to manage auto-update settings via GitHub.
-Version: 1.2.0
+Plugin URI: https://github.com/ahmprs/Wp-Plg-Mgv-Test
+Description: A WordPress plugin for auto-updating from GitHub.
+Version: 1.3.0
 Author: AhmPrs
 Author URI: https://github.com/ahmprs
 GitHub Plugin URI: https://github.com/ahmprs/Wp-Plg-Mgv-Test
