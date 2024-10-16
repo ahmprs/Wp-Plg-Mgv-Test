@@ -1,11 +1,13 @@
 <?php
 /*
 Plugin Name: WP MGV Test Auto Update GitHub
-Plugin URI: https://your-plugin-website.com
+Plugin URI: https://yourwebsite.com/docs/wpmgvtest
 Description: A plugin to manage auto-update settings via GitHub.
-Version: 1.0.0
+Version: 1.1.0
 Author: Your Name
 Author URI: https://your-github-url.com
+GitHub Plugin URI: https://github.com/ahmprs/Wp-Plg-Mgv-Test
+GitHub Branch: main
 */
 
 // Exit if accessed directly
@@ -42,7 +44,7 @@ function wp_mgv_test_render_settings_page()
                     <th scope="row">Configuration JSON</th>
                     <td>
                         <textarea name="wp_mgv_test_config" rows="10" cols="50" class="large-text"><?php echo esc_textarea(get_option('wp_mgv_test_config')); ?></textarea>
-                        <p class="description">Enter your configuration in JSON format.</p>
+                        <p class="description">Enter your configuration in (JSON) format.</p>
                     </td>
                 </tr>
             </table>
